@@ -30,7 +30,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(-1, sub(3, 4))  # add assertion here
 
     def test_2つの整数の積が計算できる(self):
-        self.assertEqual(11, kake(3, 4))  # add assertion here
+        self.assertEqual(12, kake(3, 4))  # add assertion here
 
     def test_2つの整数の除が計算できる(self):
         self.assertEqual(3, wari(12, 4))  # add assertion here
