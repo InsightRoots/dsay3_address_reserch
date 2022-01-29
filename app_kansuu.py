@@ -7,7 +7,6 @@ def main():
     # print(address)
     assert "岩手県八幡平市大更" == address
 
-
 #     チェックをするために、アサートをやっている。
 
 
